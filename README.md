@@ -13,7 +13,6 @@ I love building things that live on the internet.
 
 ## ⚡ Tech I Work With  
 
-**Web3:** Solidity · Smart Contracts · DApps · web3.js
 **Frontend:** ReactJS · Next.js · Tailwind  
 **Backend:** Node.js · Express · redis
 **ORM:** Prims · Mongoose
