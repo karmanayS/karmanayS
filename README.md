@@ -14,14 +14,15 @@ I love building things that live on the internet.
 ## ⚡ Tech I Work With  
 
 **Frontend:** ReactJS · Next.js · Tailwind  
-**Backend:** Node.js · Express · redis
-**ORM:** Prisma · Mongoose
-**Databases:** PostgreSQL · MongoDB    
+
+**Backend:** Node.js · Express · Redis  
+
+**ORM:** Prisma · Mongoose  
+
+**Databases:** PostgreSQL · MongoDB  
 
 ---
 
 ## 📬 Let’s Connect  
 
 📧 **karmanaysharmaog@gmail.com**  
-
---- 
