@@ -15,7 +15,7 @@ I love building things that live on the internet.
 
 **Frontend:** ReactJS · Next.js · Tailwind  
 **Backend:** Node.js · Express · redis
-**ORM:** Prims · Mongoose
+**ORM:** Prisma · Mongoose
 **Databases:** PostgreSQL · MongoDB    
 
 ---
