@@ -13,9 +13,7 @@ I love building things that live on the internet.
 
 ## ⚡ Tech I Work With  
 
-**Frontend:** ReactJS · Next.js · Tailwind  
-
-**Backend:** Node.js · Express · Redis  
+**Frameworks and technologies:** ReactJS · Next.js · Tailwind · Node.js · Express · Redis 
 
 **ORM:** Prisma · Mongoose  
 
