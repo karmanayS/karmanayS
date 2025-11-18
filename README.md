@@ -5,9 +5,10 @@ I love building things that live on the internet.
 
 ---
 
-## 💻 Currently Building  
+## 💻 Projects  
 
-- **[CFD Platform](https://github.com/karmanayS/CFD-platform)** – A contract for difference trading platform simulating real-world trading with **React, Node.js & PostgreSQL**.  
+- **[CFD Platform](https://github.com/karmanayS/CFD-platform)** – A contract for difference trading platform simulating real-world trading with **React, Node.js & PostgreSQL**.
+- **[excalidraw-clone](https://github.com/karmanayS/excalidraw_clone)** – Excalidraw like application that lets users in the same room collaboratively draw on the canvas built using socket io, nodejs, nextjs**.   
 
 ---
 
