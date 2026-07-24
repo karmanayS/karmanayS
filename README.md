@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karmanay Sharma</h1>
+<h1 align="center">Hi 👋, I'm Karmanay</h1>
 
 <p align="center">
   Full Stack Developer building scalable web applications.
@@ -37,15 +37,6 @@
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TurboRepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
