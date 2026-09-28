@@ -6,16 +6,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Full Stack Developer with a strong interest in backend engineering
-- ⚙️ Enjoy building scalable applications and distributed systems
-- 🤖 Currently exploring AI and its applications in software engineering
-- 🌱 Always learning and building
+- Full Stack Developer with a strong interest in backend engineering
+- Enjoy building scalable applications and distributed systems
+- Currently exploring AI and its applications in software engineering
+- Always learning and building
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
