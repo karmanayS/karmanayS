@@ -1,3 +1,3 @@
 ## Portfolio
 
-https://karmanay.xyz
+karmanay.xyz
